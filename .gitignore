@@ -1,0 +1,23 @@
+# python cache
+__pycache__
+.mypy_cache
+.pytest_cache
+
+# venv
+venv
+.env
+
+# IDE
+.idea
+.vscode
+
+# Backup files
+/backup/
+
+# other
+notes.md
+.coverage
+.pem
+/configs/docker/db-data/
+.DS_Store
+.db
